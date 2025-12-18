@@ -1,2 +1,19 @@
-# Syntecxhub_Rule_Based_Chatbot
-A simple rule-based chatbot built using Python that uses pattern matching to respond to user queries. Developed as part of the Syntecxhub Artificial Intelligence Internship, featuring intent handling, console interaction, and conversation logging.
+# Simple Rule-Based Chatbot
+
+This project is developed as part of the Syntecxhub AI Internship.
+
+## Features
+- Rule-based chatbot using pattern matching
+- Supports greeting, help, small talk, and AI questions
+- Console-based interaction
+- Logs conversation history
+
+## Technologies Used
+- Python
+
+## How to Run
+1. Install Python
+2. Run `python chatbot.py`
+
+## Author
+Rangala Yaswanth Kumar
